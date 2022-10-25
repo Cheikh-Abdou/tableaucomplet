@@ -1,0 +1,22 @@
+
+body{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+    margin: auto;
+}
+th {
+    border: 1px solid black;
+    padding: 8px;
+}
+td{
+    border: 1px solid black;
+    padding: 8px;
+}
+.gris{
+    background-color: gray;
+}
